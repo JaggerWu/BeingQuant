@@ -15,3 +15,7 @@ Normally, the main methods for quantitative investment include the following:
 - [Fractal](https://en.wikipedia.org/wiki/Fractal)
 - [Stochastic Process](https://en.wikipedia.org/wiki/Stochastic_process)
 
+## Content
+
+## Quantitative Modelling
+- Dynamic 
