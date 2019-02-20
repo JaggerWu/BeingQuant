@@ -19,3 +19,10 @@ Normally, the main methods for quantitative investment include the following:
 
 ## Quantitative Modelling
 - Dynamic 
+
+## Data Mining
+
+### PCA
+### Machine Learning
+
+## Wavelet
