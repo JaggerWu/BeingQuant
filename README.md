@@ -35,3 +35,9 @@ Principal component analysis (PCA) is a statistical procedure that uses an ortho
 [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) isMl  the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead. 
 
 ## Wavelet
+
+### Fourier
+[Fourier Analysis](http://www.people.fas.harvard.edu/~djmorin/waves/Fourier.pdf) is the study of the way general functions may be represented or approximated by sums of simpler trigonometric functions. 
+
+### Wavelet
+A [Wavelet](https://en.wikipedia.org/wiki/Wavelet) is a wave-like oscillation with an amplitude that begins at zero, increases, and then decreases back to zero. It can typically be visualized as a "brief oscillation" like one recorded by a seismograph or heart monitor. Generally, wavelets are intentionally crafted to have specific properties that make them useful for signal processing. Using a "reverse, shift, multiply and integrate" technique called convolution, wavelets can be combined with known portions of a damaged signal to extract information from the unknown portions. 
