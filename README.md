@@ -1,6 +1,6 @@
 # Learning Algorithmic Trading
 
-I am working as a graduate quant developer for a investment bank in Denmark. Since I have strong background in Mathematic and Computer Science Theory, but I do not have any courses in finance. The respo is recording the learning process about how to be pursue a job in quant career. 
+I am working as a graduate quant developer for a investment bank in Denmark. I have strong background in Mathematic and Computer Science Theory, but I did not have any courses in computational finance. The respo is to record the learning process about how to be pursue a job in quant career. 
 
 ## Reference
 - [Quantitative Investment](http://www.cis.pku.edu.cn/faculty/vision/zlin/%E9%87%8F%E5%8C%96%E6%8A%95%E8%B5%84%E2%80%94%E2%80%94%E7%AD%96%E7%95%A5%E4%B8%8E%E6%8A%80%E6%9C%AF.pdf)
@@ -32,7 +32,7 @@ Normally, the main methods for quantitative investment include the following:
 Principal component analysis (PCA) is a statistical procedure that uses an orthogonal transformation to convert a set of observations of possibly correlated variables (entities each of which takes on various numerical values) into a set of values of linearly uncorrelated variables called principal components. 
 
 ### Machine Learning
-[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) isMl  the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead. 
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning) is the scientific study of algorithms and statistical models that computer systems use to effectively perform a specific task without using explicit instructions, relying on patterns and inference instead. 
 
 ## Wavelet
 
